@@ -1,0 +1,2 @@
+com.yancy.spi.impl.ImageHelloService
+com.yancy.spi.impl.TextHelloService
